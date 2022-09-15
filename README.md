@@ -14,6 +14,12 @@ This repository contains my solutions to the hands-on lab exercises for Microsof
 - Create calculated tables
 - Create calculated columns
 - Create measures
+- Design a report
+- Configure visual fields and format properties
+- Sync slicers
+- Create a drillthrough page
+- Apply conditional formatting
+- Create and use bookmarks
 ----
 # Data Sourcing
 
