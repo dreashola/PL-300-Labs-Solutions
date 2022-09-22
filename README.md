@@ -22,6 +22,12 @@ This project is incomplete and still being updated with the solutions.
 - Create a drillthrough page
 - Apply conditional formatting
 - Create and use bookmarks
+- Pin visuals to a dashboard
+
+- Use Q&A to create dashboard tiles
+- Create animated scatter charts
+
+- Use a visual to forecast values
 ----
 # Data Sourcing
 
