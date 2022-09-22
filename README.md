@@ -2,6 +2,8 @@
 
 This repository contains my solutions to the hands-on lab exercises for Microsoft course  [PL-300: Microsoft Power BI Data Analyst](https://docs.microsoft.com/en-us/learn/certifications/courses/PL-300T00). My solutions are presented as a single consolidated pbix file comprising all my lab solutions. This project is created with Microsoft Power BI.
 
+This project is incomplete and still being updated with the solutions.
+
 ----
 # Problem Statement
 
